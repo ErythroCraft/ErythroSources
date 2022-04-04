@@ -1,6 +1,4 @@
-# serverrcs
-
-ErythroCrafts assets
+# ErythroCrafts assets
 
 The Master RCS of ErythroCraft is an mixed resource pack.
 This fixes duplications and incompatibilities of the following.
