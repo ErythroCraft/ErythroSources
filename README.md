@@ -18,15 +18,9 @@ Supported:
 Integrations:
 - cars, planes, vehicles, chairs, tables ...
 - custom items and blocks
-- structures
-- custom recipes
-and much more
-
-Include:
 - diagonal blocks
 - GUI customization
-- guns, cars, planes
-- some more Textures
+and much more
 
 Exculde:
 - custom creations you want
@@ -37,7 +31,7 @@ Futured supports:
 - MythicMobs
 - Nature
 
-Futured includes:
+In progress:
 - ships
 - trees and plants
-
+- machinery
