@@ -15,19 +15,18 @@ Supported:
 - Nova
 - SurvivalPlus
 
-Inticrations:
+Integrations:
 - cars, planes, vehicles, chairs, tables ...
 - custom items and blocks
 - structures
-- trees and plants
 - custom recipes
 and much more
 
 Include:
-- Diagonal blocks (by )
-- GUI Customization
-- Guns, cars, planes
-- Some Textures
+- diagonal blocks
+- GUI customization
+- guns, cars, planes
+- some more Textures
 
 Exculde:
 - custom creations you want
@@ -36,7 +35,9 @@ Futured supports:
 - Slime Fun
 - Craftory
 - MythicMobs
+- Nature
 
 Futured includes:
-- Ships
+- ships
+- trees and plants
 
