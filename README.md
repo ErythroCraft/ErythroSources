@@ -2,22 +2,22 @@
 
 ErythroCrafts assets
 
-The Master RCS of ErythroCraft is an mixed resource pack of minecraft servers.
-This will fix duplications and incompatibilities of the following plugins.
+The Master RCS of ErythroCraft is an mixed resource pack.
+This fixes duplications and incompatibilities of the following.
 
-Plugins supported:
+Supported:
 
-- Minecraft (customs by Hinterix)
-- Items Adder + Customs created by Hinterix
-- Slime Fun
+- BigDoors Reloaded
+- ErythroCraft's Java textures (by Hinterix)
+- Items Adder + more
 - Train Carts
 - QualityArmory
 - QualityVehicles
 - TransportPipes
-- Craftory
-- MythicMobs
+- Nova
+- SurvivalPlus
 
-Custom creations:
+Inticrations:
 - cars, planes, vehicles, chairs, tables ...
 - custom items and blocks
 - structures
@@ -26,6 +26,19 @@ Custom creations:
 and much more
 
 Include:
+- Diagonal blocks (by )
 - GUI Customization
+- Guns, cars, planes
 - Some Textures
+
+Exculde:
+- custom creations you want
+
+Futured supports:
+- Slime Fun
+- Craftory
+- MythicMobs
+
+Futured includes:
+- Ships
 
