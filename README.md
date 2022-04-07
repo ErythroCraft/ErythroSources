@@ -5,16 +5,17 @@ This fixes duplications and incompatibilities of the following.
 
 Supported:
 
-- BigDoors Reloaded
 - ErythroCraft's Java textures (by Hinterix)
-- Items Adder + more
-- Train Carts
-- QualityArmory
-- QualityVehicles
-- TransportPipes
-- Nova
-- SurvivalPlus
-- StarMail
+- [BigDoors Reloaded](https://www.spigotmc.org/resources/big-doors.58669/)
+- [Items Adder + more](https://www.spigotmc.org/resources/✨itemsadder⭐custom-items-armors-hud-gui-mobs-emoji-blocks-wings-hats-liquids.73355/)
+  - [ItemsAdder addons in progress]
+- [Train Carts](https://www.spigotmc.org/resources/traincarts.39592/)
+- [QualityArmory](https://www.spigotmc.org/resources/quality-armory.47561/)
+- [QualityVehicles](https://www.spigotmc.org/resources/qualityarmory-vehicles-2.59129/)
+- [TransportPipes](https://www.spigotmc.org/resources/transport-pipes.20873/)
+- [Nova](https://www.spigotmc.org/resources/nova-✨-custom-blocks-✅-items-✅-guis-✅-modpack-like-fully-configurable.93648/)
+- [SurvivalPlus - RECODED](https://www.spigotmc.org/resources/survival-plus-recoded-making-survival-fun-again.67351/)
+- [StarMail](https://www.spigotmc.org/resources/star-mail.73406/)
 
 Integrations:
 - cars, planes, vehicles, chairs, tables ...
@@ -37,3 +38,13 @@ In progress:
 - trees and plants
 - machinery
 - better block guis
+
+
+# Donations can help.
+
+[<img align="left" alt="HTML5" width="120" src="http://server.erythrocraft.de/data/html-images/donate-with-paypal-0.png"/>][donate]
+
+<br/>
+
+[donate]: https://www.paypal.com/donate/?hosted_button_id=D3EX89BPPH6QN
+
