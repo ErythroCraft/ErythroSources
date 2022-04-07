@@ -14,6 +14,7 @@ Supported:
 - TransportPipes
 - Nova
 - SurvivalPlus
+- StarMail
 
 Integrations:
 - cars, planes, vehicles, chairs, tables ...
