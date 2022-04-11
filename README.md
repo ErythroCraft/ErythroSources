@@ -6,6 +6,7 @@ This fixes duplications and incompatibilities of the following.
 Supported:
 
 - ErythroCraft's Java textures (by Hinterix)
+- [Spawn Egg 3D]()
 - [BigDoors Reloaded](https://www.spigotmc.org/resources/big-doors.58669/)
 - [Items Adder + more](https://www.spigotmc.org/resources/✨itemsadder⭐custom-items-armors-hud-gui-mobs-emoji-blocks-wings-hats-liquids.73355/)
   - [ItemsAdder addons in progress]
