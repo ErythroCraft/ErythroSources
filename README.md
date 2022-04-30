@@ -38,7 +38,11 @@ In progress:
 - ships
 - trees and plants
 - machinery
-- better block guis
+- better block guis [any plugins can not loading gui textures]
+
+Future in progress:
+- new blocks for ItemsAdder and better looking rails will comming soon.  
+- data_storage is comming on version 1.5
 
 
 # Donations can help.
