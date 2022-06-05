@@ -1,0 +1,308 @@
+{
+    "bd.dragging1": {
+        "replace": false,
+        "sounds": [
+            "custom/dragging1"
+        ]
+    },
+    "bd.dragging2": {
+        "replace": false,
+        "sounds": [
+            "custom/dragging2"
+        ]
+    },
+    "bd.closing-vault-door": {
+        "replace": false,
+        "sounds": [
+            "custom/closing-vault-door"
+        ]
+    },
+    "bd.drawbridge-rattling": {
+        "replace": false,
+        "sounds": [
+            "custom/drawbridge-rattling"
+        ]
+    },
+    "bd.thud": {
+        "replace": false,
+        "sounds": [
+            "custom/thud"
+        ]
+    },
+    "bulletbig": {
+        "replace": false,
+        "sounds": [
+            "quality/bulletbig"
+        ]
+    },
+    "bulletmedium": {
+        "replace": false,
+        "sounds": [
+            "quality/bulletmedium"
+        ]
+    },
+    "bulletsmall": {
+        "replace": false,
+        "sounds": [
+            "quality/bulletsmall"
+        ]
+    },
+    "bulletauto": {
+        "replace": false,
+        "sounds": [
+            "quality/bulletauto"
+        ]
+    },
+    "reloadbolt": {
+        "replace": false,
+        "sounds": [
+            "quality/reloadbolt"
+        ]
+    },
+    "reloadbullet": {
+        "replace": false,
+        "sounds": [
+            "quality/reloadbullet"
+        ]
+    },
+    "reloadmagin": {
+        "replace": false,
+        "sounds": [
+            "quality/reloadmagin"
+        ]
+    },
+    "reloadmagout": {
+        "replace": false,
+        "sounds": [
+            "quality/reloadmagout"
+        ]
+    },
+    "warheadexplode": {
+        "replace": false,
+        "sounds": [
+            "quality/warheadexplode"
+        ]
+    },
+    "warheadlaunch": {
+        "replace": false,
+        "sounds": [
+            "quality/warheadlaunch"
+        ]
+    },
+    "bulletlazer": {
+        "replace": false,
+        "sounds": [
+            "quality/bulletlazer"
+        ]
+    },
+    "flashbang": {
+        "replace": false,
+        "sounds": [
+            "quality/flashbang"
+        ]
+    },
+    "chainsmall": {
+        "replace": false,
+        "sounds": [
+            "quality/chainsmall"
+        ]
+    },
+    "metalhit": {
+        "replace": false,
+        "sounds": [
+            "quality/metalhit"
+        ]
+    },
+    "shockwave": {
+        "replace": false,
+        "sounds": [
+            "quality/shockwave"
+        ]
+    },
+    "lazerfire": {
+        "replace": false,
+        "sounds": [
+            "quality/lazerfire"
+        ]
+    },
+    "bulletswblaster": {
+        "replace": false,
+        "sounds": [
+            "quality/bulletswblaster"
+        ]
+    },
+    "bulletneedler": {
+        "replace": false,
+        "sounds": [
+            "quality/bulletneedler"
+        ]
+    },
+    "bullethalolazer": {
+        "replace": false,
+        "sounds": [
+            "quality/bullethalolazer"
+        ]
+    },
+    "bulletdeagle": {
+        "replace": false,
+        "sounds": [
+            "quality/bulletdeagle"
+        ]
+    },
+    "bulletsmallauto": {
+        "replace": false,
+        "sounds": [
+            "quality/bulletsmallauto"
+        ]
+    },
+    "driving": {
+        "replace": false,
+        "sounds": [
+            "quality/driving"
+        ]
+    },
+    "driving2": {
+        "replace": false,
+        "sounds": [
+            "quality/driving2"
+        ]
+    },
+    "engine": {
+        "replace": false,
+        "sounds": [
+            "quality/engine"
+        ]
+    },
+    "carskid": {
+        "replace": false,
+        "sounds": [
+            "quality/carskid"
+        ]
+    },
+    "honk": {
+        "replace": false,
+        "sounds": [
+            "quality/honk"
+        ]
+    },
+    "siren": {
+        "replace": false,
+        "sounds": [
+            "quality/siren"
+        ]
+    },
+    "lightsaberstart": {
+        "replace": false,
+        "sounds": [
+            "quality/lightsaberstart"
+        ]
+    },
+    "saberhit": {
+        "replace": false,
+        "sounds": [
+            "quality/saberhit"
+        ]
+    },
+    "sithsaberstart": {
+        "replace": false,
+        "sounds": [
+            "quality/sithsaberstart"
+        ]
+    },
+    "reloadclick": {
+        "replace": false,
+        "sounds": [
+            "quality/reloadclick"
+        ]
+    },
+    "reloadmagclick": {
+        "replace": false,
+        "sounds": [
+            "quality/reloadmagclick"
+        ]
+    },
+    "outofammoclick": {
+        "replace": false,
+        "sounds": [
+            "quality/outofammoclick"
+        ]
+    },
+    "openbag": {
+        "replace": false,
+        "sounds": [
+            "quality/openbag"
+        ]
+    },
+    "partyshot": {
+        "replace": false,
+        "sounds": [
+            "quality/partyshot"
+        ]
+    },
+    "thumper": {
+        "replace": false,
+        "sounds": [
+            "quality/thumper"
+        ]
+    },
+    "bulletsilence": {
+        "replace": false,
+        "sounds": [
+            "quality/bulletsilence"
+        ]
+    },
+    "reloadak47": {
+        "replace": false,
+        "sounds": [
+            "quality/reloadak47"
+        ]
+    },
+    "reloadslide": {
+        "replace": false,
+        "sounds": [
+            "quality/reloadslide"
+        ]
+    },
+    "bulletmauser": {
+        "replace": false,
+        "sounds": [
+            "quality/bulletmauser"
+        ]
+    },
+    "bulletak47": {
+        "replace": false,
+        "sounds": [
+            "quality/bulletak47"
+        ]
+    },
+    "reloadfn": {
+        "replace": false,
+        "sounds": [
+            "quality/reloadfn"
+        ]
+    },
+    "reloadm16": {
+        "replace": false,
+        "sounds": [
+            "quality/reloadm16"
+        ]
+    },
+    "reloadshotgun": {
+        "replace": false,
+        "sounds": [
+            "quality/reloadshotgun"
+        ]
+    },
+    "bulletshotgun": {
+        "replace": false,
+        "sounds": [
+            "quality/bulletshotgun"
+        ]
+    },
+    "reloadshell": {
+        "replace": false,
+        "sounds": [
+            "quality/reloadshell"
+        ]
+    }
+}
