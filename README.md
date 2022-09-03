@@ -45,11 +45,9 @@ Future in progress:
 - data_storage is comming on version 1.5
 
 
-# Donations can help.
+# I'm working on the package in my free time. 
+This means that it can take a long time until an update is ready. Please be patient and enjoy what is there for as long as possible
 
 [<img align="left" alt="HTML5" width="320" src="https://www.pngall.com/wp-content/uploads/2016/05/PayPal-Donate-Button-Download-PNG.png"/>][donate]
-
-<br/>
-
 [donate]: https://www.paypal.com/donate/?hosted_button_id=D3EX89BPPH6QN
 
