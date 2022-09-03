@@ -1,4 +1,4 @@
-# ErythroCrafts assets
+# ErythroSources 1.18+ 
 
 The Master RCS of ErythroCraft is an mixed resource pack.
 This fixes duplications and incompatibilities of the following.
