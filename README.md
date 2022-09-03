@@ -47,7 +47,7 @@ Future in progress:
 
 # Donations can help.
 
-[<img align="left" alt="HTML5" width="120" src="http://server.erythrocraft.de/data/html-images/donate-with-paypal-0.png"/>][donate]
+[<img align="left" alt="HTML5" width="120" src="https://www.pngall.com/wp-content/uploads/2016/05/PayPal-Donate-Button-Download-PNG.png"/>][donate]
 
 <br/>
 
