@@ -1,0 +1,7 @@
+{
+  "parent": "block/base/block_real",
+  "textures": {
+    "all": "iasurvival:block/minerals/ruby_block",
+    "particle": "iasurvival:block/minerals/ruby_block"
+  }
+}

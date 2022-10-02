@@ -1,0 +1,6 @@
+{
+  "parent": "item/mid",
+  "textures": {
+    "0": "transport_pipes:item/pipe_red"
+  }
+}

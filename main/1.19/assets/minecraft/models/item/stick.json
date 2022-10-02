@@ -1,0 +1,378 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/stick"
+  },
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "survivalplus:item/rock"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000
+      },
+      "model": "iageneric:auto_generated/bug_medal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10001
+      },
+      "model": "iageneric:auto_generated/cute_medal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10002
+      },
+      "model": "iageneric:auto_generated/donator_medal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10003
+      },
+      "model": "iageneric:auto_generated/coin"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10004
+      },
+      "model": "iageneric:auto_generated/banknote"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10005
+      },
+      "model": "iageneric:auto_generated/sack_of_money"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10006
+      },
+      "model": "iageneric:auto_generated/plastic_bag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10007
+      },
+      "model": "iageneric:auto_generated/light_blue_coupon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10008
+      },
+      "model": "iageneric:auto_generated/turquoise_coupon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10009
+      },
+      "model": "iageneric:auto_generated/purple_coupon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10010
+      },
+      "model": "iageneric:auto_generated/green_coupon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10011
+      },
+      "model": "iageneric:auto_generated/red_coupon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10012
+      },
+      "model": "iageneric:auto_generated/black_coupon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10013
+      },
+      "model": "iageneric:auto_generated/white_coupon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10014
+      },
+      "model": "iageneric:auto_generated/golden_coupon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10015
+      },
+      "model": "iageneric:auto_generated/blue_ring"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10016
+      },
+      "model": "iageneric:auto_generated/light_blue_ring"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10017
+      },
+      "model": "iageneric:auto_generated/turquoise_ring"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10018
+      },
+      "model": "iageneric:auto_generated/purple_ring"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10019
+      },
+      "model": "iageneric:auto_generated/green_ring"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10020
+      },
+      "model": "iageneric:auto_generated/red_ring"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10021
+      },
+      "model": "iageneric:auto_generated/black_ring"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10022
+      },
+      "model": "iageneric:auto_generated/white_ring"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10023
+      },
+      "model": "iageneric:auto_generated/golden_ring"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10024
+      },
+      "model": "iageneric:auto_generated/marriage_ring"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10025
+      },
+      "model": "iageneric:auto_generated/blue_key"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10026
+      },
+      "model": "iageneric:auto_generated/light_blue_key"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10027
+      },
+      "model": "iageneric:auto_generated/turquoise_key"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10028
+      },
+      "model": "iageneric:auto_generated/purple_key"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10029
+      },
+      "model": "iageneric:auto_generated/green_key"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10030
+      },
+      "model": "iageneric:auto_generated/red_key"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10031
+      },
+      "model": "iageneric:auto_generated/black_key"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10032
+      },
+      "model": "iageneric:auto_generated/white_key"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10033
+      },
+      "model": "iageneric:auto_generated/golden_key"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10034
+      },
+      "model": "iageneric:item/carton_box"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10035
+      },
+      "model": "iasurvival:auto_generated/cup_of_water"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10036
+      },
+      "model": "iasurvival:auto_generated/jar"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10037
+      },
+      "model": "iaalchemy:auto_generated/energy_orb"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10038
+      },
+      "model": "iaalchemy:auto_generated/small_energy_capsule"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10039
+      },
+      "model": "iaalchemy:auto_generated/energy_capsule"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10040
+      },
+      "model": "iasurvival:auto_generated/ketchup"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10041
+      },
+      "model": "iasurvival:auto_generated/ketchup_bottle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10042
+      },
+      "model": "iasurvival:auto_generated/chili_powder"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10043
+      },
+      "model": "iasurvival:auto_generated/nest"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10044
+      },
+      "model": "iasurvival:auto_generated/eggs_nest"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10045
+      },
+      "model": "iasurvival:auto_generated/plastic"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10046
+      },
+      "model": "iasurvival:auto_generated/plastic_plate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10047
+      },
+      "model": "iasurvival:auto_generated/iron_plate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10048
+      },
+      "model": "iasurvival:auto_generated/tobacco"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10049
+      },
+      "model": "iasurvival:auto_generated/cup_of_hot_water"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10050
+      },
+      "model": "iasurvival:auto_generated/sword_skin_rusteroth"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10051
+      },
+      "model": "iasurvival:auto_generated/sword_skin_bloodnite"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10052
+      },
+      "model": "iasurvival:auto_generated/sword_skin_vyderlight"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10053
+      },
+      "model": "iasurvival:auto_generated/sword_skin_aqualight"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10054
+      },
+      "model": "iasurvival:auto_generated/dough"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10055
+      },
+      "model": "iaalchemy:item/mysterious_artifact"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10056
+      },
+      "model": "iasurvival:auto_generated/empty_cup"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10057
+      },
+      "model": "iasurvival:auto_generated/drink_glass"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10058
+      },
+      "model": "iasurvival:auto_generated/flour"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10059
+      },
+      "model": "minecraft:item/stick"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 133744
+      },
+      "model": "transport_pipes:item/item_wrench"
+    }
+  ]
+}

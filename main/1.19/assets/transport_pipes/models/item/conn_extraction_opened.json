@@ -1,0 +1,6 @@
+{
+  "parent": "item/conn",
+  "textures": {
+    "0": "transport_pipes:item/pipe_extraction_opened"
+  }
+}

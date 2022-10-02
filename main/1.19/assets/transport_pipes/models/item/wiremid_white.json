@@ -1,0 +1,6 @@
+{
+  "parent": "transport_pipes:item/wiremid",
+  "textures": {
+    "0": "transport_pipes:item/wire_white"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/potato"
+  },
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "item/potato"
+    },
+    {
+      "predicate": { "custom_model_data": 2 },
+      "model": "erythrocraft:item/potato_sack_9"
+    },
+    {
+      "predicate": { "custom_model_data": 3 },
+      "model": "erythrocraft:item/potato_sack_964"
+    }
+  ]
+}

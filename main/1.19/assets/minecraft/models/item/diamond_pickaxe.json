@@ -1,0 +1,54 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/diamond_pickaxe"
+  },
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "survivalplus:item/quartz_pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000
+      },
+      "model": "iaalchemy:auto_generated/demoniac_pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10001
+      },
+      "model": "iasurvival:auto_generated/bronze_pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10002
+      },
+      "model": "iasurvival:auto_generated/dark_amethyst_pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10003
+      },
+      "model": "iasurvival:auto_generated/diamond_hammer"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10004
+      },
+      "model": "iaalchemy:auto_generated/astral_pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10005
+      },
+      "model": "iaalchemy:auto_generated/demoniac_hammer"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10006
+      },
+      "model": "minecraft:item/diamond_pickaxe"
+    }
+  ]
+}

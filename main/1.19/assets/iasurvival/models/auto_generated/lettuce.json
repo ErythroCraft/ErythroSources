@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "iasurvival:item/food/vegetable_and_fruit/lettuce"
+  }
+}

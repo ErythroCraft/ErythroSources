@@ -1,0 +1,7 @@
+{
+  "parent": "block/base/block_real",
+  "textures": {
+    "all": "iaalchemy:block/mysterious_ore",
+    "particle": "iaalchemy:block/mysterious_ore"
+  }
+}

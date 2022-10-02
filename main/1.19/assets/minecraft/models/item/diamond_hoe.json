@@ -1,0 +1,40 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/diamond_hoe"
+  },
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "survivalplus:item/diamond_sickle"
+    },
+    {
+      "predicate": { "custom_model_data": 2 },
+      "model": "survivalplus:item/ender_giant_blade"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000
+      },
+      "model": "iasurvival:auto_generated/dark_amethyst_hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10001
+      },
+      "model": "iasurvival:auto_generated/ruby_hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10002
+      },
+      "model": "iasurvival:auto_generated/bronze_hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10003
+      },
+      "model": "minecraft:item/diamond_hoe"
+    }
+  ]
+}

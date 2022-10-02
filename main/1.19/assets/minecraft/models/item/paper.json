@@ -1,0 +1,476 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/paper"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 10000
+      },
+      "model": "z_iainternal:auto_generated/icon_left_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10001
+      },
+      "model": "z_iainternal:auto_generated/icon_right_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10002
+      },
+      "model": "z_iainternal:auto_generated/icon_search"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10003
+      },
+      "model": "z_iainternal:auto_generated/icon_cancel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10004
+      },
+      "model": "z_iainternal:auto_generated/icon_arrow_chest"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10005
+      },
+      "model": "z_iainternal:auto_generated/icon_back_orange"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10006
+      },
+      "model": "z_iainternal:auto_generated/icon_next_orange"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10007
+      },
+      "model": "iaalchemy:item/mysterious_stone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10008
+      },
+      "model": "iasurvival:auto_generated/modern_quartz"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10009
+      },
+      "model": "iafestivities:christmas/christmas_wreath"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10010
+      },
+      "model": "iaalchemy:item/alchemy_candles"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10011
+      },
+      "model": "iasurvival:auto_generated/modern_sandstone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10012
+      },
+      "model": "iasurvival:auto_generated/cassiterite_ore"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10013
+      },
+      "model": "iaalchemy:auto_generated/mysterious_ore"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10014
+      },
+      "model": "iasurvival:auto_generated/forgotten_crying_obsidian"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10015
+      },
+      "model": "iasurvival:auto_generated/ruby_ore"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10016
+      },
+      "model": "iaalchemy:item/energy_extractor"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10017
+      },
+      "model": "iasurvival:auto_generated/dark_amethyst_block"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10018
+      },
+      "model": "iasurvival:auto_generated/aqua_aura_block"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10019
+      },
+      "model": "iasurvival:auto_generated/turquoise_ore"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10020
+      },
+      "model": "iafestivities:christmas/christmas_tree"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10021
+      },
+      "model": "iasurvival:auto_generated/end_ore"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10022
+      },
+      "model": "iasurvival:auto_generated/modern_stone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10023
+      },
+      "model": "iasurvival:auto_generated/nice_stone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10024
+      },
+      "model": "iasurvival:auto_generated/nice_wood"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10025
+      },
+      "model": "iasurvival:auto_generated/aqua_aura_ore"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10026
+      },
+      "model": "iasurvival:auto_generated/gold_dirt_ore"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10027
+      },
+      "model": "iasurvival:auto_generated/coal_dirt_ore"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10028
+      },
+      "model": "iasurvival:auto_generated/customization_table"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10029
+      },
+      "model": "iasurvival:auto_generated/blaze_powder_ore"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10030
+      },
+      "model": "iaalchemy:auto_generated/nether_alchemy_ore"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10031
+      },
+      "model": "iasurvival:auto_generated/crystal_block"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10032
+      },
+      "model": "iasurvival:auto_generated/dark_amethyst_prism_block"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10033
+      },
+      "model": "iafestivities:christmas/decorative_candy_cane"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10034
+      },
+      "model": "iaalchemy:item/energy_converter"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10035
+      },
+      "model": "iasurvival:auto_generated/dark_amethyst_ore"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10036
+      },
+      "model": "iafestivities:halloween/decorative_pumpkin"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10037
+      },
+      "model": "iasurvival:auto_generated/cassiterite_block"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10038
+      },
+      "model": "iasurvival:auto_generated/iron_dirt_ore"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10039
+      },
+      "model": "iasurvival:auto_generated/spinel_ore"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10040
+      },
+      "model": "mcicons:auto_generated/icon_left_gray"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10041
+      },
+      "model": "mcicons:auto_generated/icon_left_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10042
+      },
+      "model": "mcicons:auto_generated/icon_right_gray"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10043
+      },
+      "model": "mcicons:auto_generated/icon_right_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10044
+      },
+      "model": "mcicons:auto_generated/icon_up_gray"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10045
+      },
+      "model": "mcicons:auto_generated/icon_up_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10046
+      },
+      "model": "mcicons:auto_generated/icon_down_gray"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10047
+      },
+      "model": "mcicons:auto_generated/icon_down_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10048
+      },
+      "model": "mcicons:auto_generated/icon_next_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10049
+      },
+      "model": "mcicons:auto_generated/icon_next_orange"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10050
+      },
+      "model": "mcicons:auto_generated/icon_back_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10051
+      },
+      "model": "mcicons:auto_generated/icon_back_orange"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10052
+      },
+      "model": "mcicons:auto_generated/icon_cancel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10053
+      },
+      "model": "mcicons:auto_generated/icon_confirm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10054
+      },
+      "model": "mcicons:auto_generated/icon_lock"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10055
+      },
+      "model": "mcicons:auto_generated/icon_unlock"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10056
+      },
+      "model": "mcicons:auto_generated/icon_web"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10057
+      },
+      "model": "mcicons:auto_generated/icon_ender_chest"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10058
+      },
+      "model": "mcicons:auto_generated/icon_refresh"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10059
+      },
+      "model": "mcicons:auto_generated/icon_time_day"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10060
+      },
+      "model": "mcicons:auto_generated/icon_time_midnight"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10061
+      },
+      "model": "mcicons:auto_generated/icon_time_night"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10062
+      },
+      "model": "mcicons:auto_generated/icon_time_noon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10063
+      },
+      "model": "mcicons:auto_generated/icon_time_sunrise"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10064
+      },
+      "model": "mcicons:auto_generated/icon_time_sunset"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10065
+      },
+      "model": "mcicons:auto_generated/icon_toggle_off"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10066
+      },
+      "model": "mcicons:auto_generated/icon_toggle_on"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10067
+      },
+      "model": "mcicons:auto_generated/icon_arrow_chest"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10068
+      },
+      "model": "mcicons:auto_generated/icon_plus"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10069
+      },
+      "model": "mcicons:auto_generated/icon_color_picker"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10070
+      },
+      "model": "mcicons:auto_generated/icon_comment"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10071
+      },
+      "model": "mcicons:auto_generated/icon_search"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10072
+      },
+      "model": "iasurvival:auto_generated/ruby_block"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10073
+      },
+      "model": "iasurvival:auto_generated/turquoise_block"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10074
+      },
+      "model": "iasurvival:auto_generated/spinel_block"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10075
+      },
+      "model": "iasurvival:auto_generated/restoration_table"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10076
+      },
+      "model": "iafestivities:christmas/christmas_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10077
+      },
+      "model": "minecraft:item/paper"
+    }
+  ]
+}

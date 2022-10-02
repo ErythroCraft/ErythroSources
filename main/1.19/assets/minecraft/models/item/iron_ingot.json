@@ -1,0 +1,122 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/iron_ingot"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 10000
+      },
+      "model": "iasurvival:auto_generated/ruby"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10001
+      },
+      "model": "iasurvival:auto_generated/knowledge_fragment"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10002
+      },
+      "model": "iasurvival:auto_generated/turquoise"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10003
+      },
+      "model": "iaalchemy:auto_generated/mysterious_material"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10004
+      },
+      "model": "iasurvival:auto_generated/cassiterite"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10005
+      },
+      "model": "iasurvival:auto_generated/dark_amethyst"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10006
+      },
+      "model": "iasurvival:auto_generated/end_ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10007
+      },
+      "model": "iasurvival:auto_generated/end_crystals"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10008
+      },
+      "model": "iasurvival:auto_generated/crystal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10009
+      },
+      "model": "iasurvival:auto_generated/fossil"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10010
+      },
+      "model": "iasurvival:auto_generated/dark_amethyst_prism"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10011
+      },
+      "model": "iasurvival:auto_generated/raw_tin_and_copper_ingot_dust"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10012
+      },
+      "model": "iasurvival:auto_generated/bronze_ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10013
+      },
+      "model": "iasurvival:auto_generated/end_shard"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10014
+      },
+      "model": "iasurvival:auto_generated/spinel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10015
+      },
+      "model": "iasurvival:auto_generated/raw_tin"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10016
+      },
+      "model": "iasurvival:auto_generated/aqua_aura"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10017
+      },
+      "model": "iasurvival:auto_generated/cassiterite_fragment"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10018
+      },
+      "model": "minecraft:item/iron_ingot"
+    }
+  ]
+}

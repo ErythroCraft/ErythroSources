@@ -1,0 +1,25 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/wooden_hoe"
+  },
+
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "survivalplus:item/shiv"
+    },
+    {
+      "predicate": { "custom_model_data": 2 },
+      "model": "survivalplus:item/stone_sickle"
+    },
+    {
+      "predicate": { "custom_model_data": 3 },
+      "model": "survivalplus:item/iron_sickle"
+    },
+    {
+      "predicate": { "custom_model_data": 4 },
+      "model": "survivalplus:item/flint_sickle"
+    }
+  ]
+}

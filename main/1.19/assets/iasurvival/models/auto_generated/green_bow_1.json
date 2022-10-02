@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/bow",
+  "textures": {
+    "layer0": "iasurvival:item/bows/green_bow_1"
+  }
+}

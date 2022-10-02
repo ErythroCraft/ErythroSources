@@ -1,0 +1,91 @@
+{
+  "variants": {
+    "instrument=basedrum,note=0,powered=false": {
+      "model": "iasurvival:auto_generated/modern_quartz"
+    },
+    "instrument=basedrum,note=1,powered=false": {
+      "model": "iasurvival:auto_generated/modern_sandstone"
+    },
+    "instrument=basedrum,note=2,powered=false": {
+      "model": "iasurvival:auto_generated/cassiterite_ore"
+    },
+    "instrument=basedrum,note=3,powered=false": {
+      "model": "iaalchemy:auto_generated/mysterious_ore"
+    },
+    "instrument=basedrum,note=4,powered=false": {
+      "model": "iasurvival:auto_generated/forgotten_crying_obsidian"
+    },
+    "instrument=basedrum,note=5,powered=false": {
+      "model": "iasurvival:auto_generated/ruby_ore"
+    },
+    "instrument=basedrum,note=6,powered=false": {
+      "model": "iasurvival:auto_generated/dark_amethyst_block"
+    },
+    "instrument=basedrum,note=7,powered=false": {
+      "model": "iasurvival:auto_generated/aqua_aura_block"
+    },
+    "instrument=basedrum,note=8,powered=false": {
+      "model": "iasurvival:auto_generated/turquoise_ore"
+    },
+    "instrument=basedrum,note=9,powered=false": {
+      "model": "iasurvival:auto_generated/end_ore"
+    },
+    "instrument=basedrum,note=10,powered=false": {
+      "model": "iasurvival:auto_generated/modern_stone"
+    },
+    "instrument=basedrum,note=11,powered=false": {
+      "model": "iasurvival:auto_generated/nice_stone"
+    },
+    "instrument=basedrum,note=12,powered=false": {
+      "model": "iasurvival:auto_generated/nice_wood"
+    },
+    "instrument=basedrum,note=13,powered=false": {
+      "model": "iasurvival:auto_generated/aqua_aura_ore"
+    },
+    "instrument=basedrum,note=14,powered=false": {
+      "model": "iasurvival:auto_generated/gold_dirt_ore"
+    },
+    "instrument=basedrum,note=15,powered=false": {
+      "model": "iasurvival:auto_generated/coal_dirt_ore"
+    },
+    "instrument=basedrum,note=16,powered=false": {
+      "model": "iasurvival:auto_generated/customization_table"
+    },
+    "instrument=basedrum,note=17,powered=false": {
+      "model": "iasurvival:auto_generated/blaze_powder_ore"
+    },
+    "instrument=basedrum,note=18,powered=false": {
+      "model": "iaalchemy:auto_generated/nether_alchemy_ore"
+    },
+    "instrument=basedrum,note=19,powered=false": {
+      "model": "iasurvival:auto_generated/crystal_block"
+    },
+    "instrument=basedrum,note=20,powered=false": {
+      "model": "iasurvival:auto_generated/dark_amethyst_prism_block"
+    },
+    "instrument=basedrum,note=21,powered=false": {
+      "model": "iasurvival:auto_generated/dark_amethyst_ore"
+    },
+    "instrument=basedrum,note=22,powered=false": {
+      "model": "iasurvival:auto_generated/cassiterite_block"
+    },
+    "instrument=basedrum,note=23,powered=false": {
+      "model": "iasurvival:auto_generated/iron_dirt_ore"
+    },
+    "instrument=basedrum,note=24,powered=false": {
+      "model": "iasurvival:auto_generated/spinel_ore"
+    },
+    "instrument=snare,note=0,powered=false": {
+      "model": "iasurvival:auto_generated/ruby_block"
+    },
+    "instrument=snare,note=1,powered=false": {
+      "model": "iasurvival:auto_generated/turquoise_block"
+    },
+    "instrument=snare,note=2,powered=false": {
+      "model": "iasurvival:auto_generated/spinel_block"
+    },
+    "instrument=snare,note=3,powered=false": {
+      "model": "iasurvival:auto_generated/restoration_table"
+    }
+  }
+}

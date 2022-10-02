@@ -1,0 +1,573 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/crossbow_standby"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [-90, 0, -60],
+      "translation": [2, 0.1, -3],
+      "scale": [0.9, 0.9, 0.9]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [-90, 0, 30],
+      "translation": [2, 0.1, -3],
+      "scale": [0.9, 0.9, 0.9]
+    },
+    "firstperson_righthand": {
+      "rotation": [-90, 0, -55],
+      "translation": [1.13, 3.2, 1.13],
+      "scale": [0.68, 0.68, 0.68]
+    },
+    "firstperson_lefthand": {
+      "rotation": [-90, 0, 35],
+      "translation": [1.13, 3.2, 1.13],
+      "scale": [0.68, 0.68, 0.68]
+    }
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "pulling": 1
+      },
+      "model": "zombiestriker:item/crossbow_pulling_0"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "pull": 0.58
+      },
+      "model": "zombiestriker:item/crossbow_pulling_1"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "pull": 1.0
+      },
+      "model": "zombiestriker:item/crossbow_pulling_2"
+    },
+    {
+      "predicate": {
+        "charged": 1
+      },
+      "model": "zombiestriker:item/crossbow_arrow"
+    },
+    {
+      "predicate": {
+        "charged": 1,
+        "firework": 1
+      },
+      "model": "zombiestriker:item/crossbow_firework"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "zombiestriker:item/guns/p30"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "zombiestriker:item/guns/pkp"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "zombiestriker:item/guns/mp5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "zombiestriker:item/guns/ak47"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "zombiestriker:item/guns/ak47u"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "zombiestriker:item/guns/m16"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "zombiestriker:item/guns/remmington"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "zombiestriker:item/guns/fnfal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "zombiestriker:item/guns/rpg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "zombiestriker:item/guns/ump"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "zombiestriker:item/guns/sw1911"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "zombiestriker:item/guns/m40"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 13
+      },
+      "model": "zombiestriker:item/guns/enfield"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14
+      },
+      "model": "zombiestriker:item/guns/mauser"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 15
+      },
+      "model": "zombiestriker:item/misc/grenade"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 16
+      },
+      "model": "zombiestriker:item/guns/dragunov"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 17
+      },
+      "model": "zombiestriker:item/guns/spas"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 18
+      },
+      "model": "zombiestriker:item/guns/aa12"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 19
+      },
+      "model": "zombiestriker:item/guns/magnum"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20
+      },
+      "model": "zombiestriker:item/guns/awp"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 21
+      },
+      "model": "zombiestriker:item/misc/smokegrenade"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 22
+      },
+      "model": "zombiestriker:item/misc/flashbang"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23
+      },
+      "model": "zombiestriker:item/guns/p30sil"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24
+      },
+      "model": "zombiestriker:item/guns/awp2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 25
+      },
+      "model": "zombiestriker:item/guns/m4a1s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 26
+      },
+      "model": "zombiestriker:item/guns/rpk"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 27
+      },
+      "model": "zombiestriker:item/guns/sg553"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 28
+      },
+      "model": "zombiestriker:item/guns/dp27"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 29
+      },
+      "model": "zombiestriker:item/misc/incendarygrenade"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30
+      },
+      "model": "zombiestriker:item/guns/homingrpg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 31
+      },
+      "model": "zombiestriker:item/guns/musketpistol"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32
+      },
+      "model": "zombiestriker:item/guns/lazerrifle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33
+      },
+      "model": "zombiestriker:item/guns/fatman"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 34
+      },
+      "model": "zombiestriker:item/guns/fo10mm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 35
+      },
+      "model": "zombiestriker:item/guns/instituterifle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 36
+      },
+      "model": "zombiestriker:item/guns/musketrifle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37
+      },
+      "model": "zombiestriker:item/guns/aliens"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 38
+      },
+      "model": "zombiestriker:item/guns/auto9"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 39
+      },
+      "model": "zombiestriker:item/guns/arcgun"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40
+      },
+      "model": "zombiestriker:item/guns/halo"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 41
+      },
+      "model": "zombiestriker:item/guns/needler"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 42
+      },
+      "model": "zombiestriker:item/guns/thatgun"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 43
+      },
+      "model": "zombiestriker:item/guns/swblaster"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 44
+      },
+      "model": "zombiestriker:item/guns/overwatchpulsegun"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 45
+      },
+      "model": "zombiestriker:item/guns/vera"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 46
+      },
+      "model": "zombiestriker:item/melee/lightsaberblue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 47
+      },
+      "model": "zombiestriker:item/melee/lightsaberred"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 48
+      },
+      "model": "zombiestriker:item/guns/mac10"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 49
+      },
+      "model": "zombiestriker:item/guns/uzi"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50
+      },
+      "model": "zombiestriker:item/guns/skorpion"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 51
+      },
+      "model": "zombiestriker:item/guns/sks"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 52
+      },
+      "model": "zombiestriker:item/guns/barrett"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 53
+      },
+      "model": "zombiestriker:item/guns/makarov"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 54
+      },
+      "model": "zombiestriker:item/guns/ppsh41"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 55
+      },
+      "model": "zombiestriker:item/guns/m79"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 56
+      },
+      "model": "zombiestriker:item/guns/minigun"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 57
+      },
+      "model": "zombiestriker:item/guns/mark19"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 58
+      },
+      "model": "zombiestriker:item/guns/asval"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 59
+      },
+      "model": "zombiestriker:item/guns/fnp90"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 60
+      },
+      "model": "zombiestriker:item/guns/kar98k"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 61
+      },
+      "model": "zombiestriker:item/guns/mp40"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 62
+      },
+      "model": "zombiestriker:item/guns/stg44"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 63
+      },
+      "model": "zombiestriker:item/guns/sawshotgun"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 64
+      },
+      "model": "zombiestriker:item/guns/famas"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 65
+      },
+      "model": "zombiestriker:item/guns/flamer"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 66
+      },
+      "model": "zombiestriker:item/guns/stengun"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 67
+      },
+      "model": "zombiestriker:item/guns/m32a1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 68
+      },
+      "model": "zombiestriker:item/misc/aiming"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 69
+      },
+      "model": "zombiestriker:item/guns/fivesevenfive"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 70
+      },
+      "model": "zombiestriker:item/melee/lightsaberblack"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 71
+      },
+      "model": "zombiestriker:item/melee/lightsaberwhite"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 72
+      },
+      "model": "zombiestriker:item/melee/lightsabergreen"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 73
+      },
+      "model": "zombiestriker:item/melee/lightsaberpurple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 74
+      },
+      "model": "zombiestriker:item/melee/lightsaberorange"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 75
+      },
+      "model": "zombiestriker:item/guns/uzicorn"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 76
+      },
+      "model": "zombiestriker:item/guns/henry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 77
+      },
+      "model": "zombiestriker:item/melee/spear"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 78
+      },
+      "model": "zombiestriker:item/guns/deagle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 79
+      },
+      "model": "zombiestriker:item/guns/pancorjackhammer"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 80
+      },
+      "model": "zombiestriker:item/misc/molotov"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 81
+      },
+      "model": "zombiestriker:item/misc/proxymine"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 82
+      },
+      "model": "zombiestriker:item/guns/m1garand"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 83
+      },
+      "model": "zombiestriker:item/guns/galil"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 84
+      },
+      "model": "zombiestriker:item/guns/ctar21"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 85
+      },
+      "model": "zombiestriker:item/misc/ammobag"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/wooden_sword"
+  },
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "survivalplus:item/hammer"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000
+      },
+      "model": "iasurvival:auto_generated/knife"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10001
+      },
+      "model": "iasurvival:auto_generated/waterskin"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10002
+      },
+      "model": "iasurvival:auto_generated/sweets_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10003
+      },
+      "model": "iasurvival:auto_generated/chisel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10004
+      },
+      "model": "minecraft:item/wooden_sword"
+    }
+  ]
+}

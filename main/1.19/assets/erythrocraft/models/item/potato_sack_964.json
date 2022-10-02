@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "erythrocraft:item/potato_sack_964"
+  }
+}

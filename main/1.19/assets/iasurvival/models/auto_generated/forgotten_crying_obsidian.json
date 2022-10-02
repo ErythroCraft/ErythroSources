@@ -1,0 +1,7 @@
+{
+  "parent": "block/base/block_real",
+  "textures": {
+    "all": "iasurvival:block/ores/forgotten_crying_obsidian",
+    "particle": "iasurvival:block/ores/forgotten_crying_obsidian"
+  }
+}

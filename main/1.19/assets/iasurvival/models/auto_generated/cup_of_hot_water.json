@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "iasurvival:item/thirst/cup_of_hot_water"
+  }
+}

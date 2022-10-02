@@ -1,0 +1,7 @@
+{
+  "parent": "transport_pipes:item/item_pipe",
+  "textures": {
+    "0": "transport_pipes:item/pipe_black",
+    "particle": "transport_pipes:item/pipe_black"
+  }
+}

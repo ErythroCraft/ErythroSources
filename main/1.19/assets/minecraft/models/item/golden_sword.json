@@ -1,0 +1,24 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/golden_sword"
+  },
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "survivalplus:item/blaze_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000
+      },
+      "model": "iasurvival:auto_generated/ruby_dagger"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10001
+      },
+      "model": "minecraft:item/golden_sword"
+    }
+  ]
+}

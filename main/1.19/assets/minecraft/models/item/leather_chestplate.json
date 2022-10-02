@@ -1,0 +1,51 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/leather_chestplate",
+    "layer1": "item/leather_chestplate_overlay"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "jetpacks:item/armored_basic_jetpack"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000
+      },
+      "model": "iasurvival:auto_generated/bronze_chestplate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10001
+      },
+      "model": "iasurvival:auto_generated/dark_amethyst_chestplate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10002
+      },
+      "model": "iasurvival:auto_generated/ruby_chestplate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10003
+      },
+      "model": "iasurvival:auto_generated/obsidian_chestplate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10004
+      },
+      "model": "iaalchemy:auto_generated/mysterious_robe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10005
+      },
+      "model": "minecraft:item/leather_chestplate"
+    }
+  ]
+}
